@@ -24,7 +24,7 @@ SECRET_KEY = 'd*y8s0&1k1st036k)v6u=unczt^yj_evrb7ubj1(4#+u4t*7nw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['datwo.eba-m4sxftrk.ap-south-1.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['Python-env.eba-xrcc9b3w.ap-south-1.elasticbeanstalk.com']
 
 # Application definition
 
